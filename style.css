@@ -23,8 +23,11 @@ p{
 
 
 .ma-tete {
-            width: 300px;
-            height: auto;
+    display: block; /* Permet d'appliquer les marges correctement */
+    margin-left: auto; /* Décale l'image vers la droite */
+    margin-right: 70px; /* Espace de 20 pixels entre l'image et le bord droit */
+    width: 300px; /* Largeur de l'image (ajuste selon tes besoins) */
+    height: auto; /* Garde les proportions */
 
      }
 
