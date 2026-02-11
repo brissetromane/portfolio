@@ -6,19 +6,10 @@ p{
   color:blue;
   text-align : center;
 }
-h1{
-  color: blue;
-}
-
-h2{
-  color: blue;
-}
 
         .bandeau {
-            background-color: blue;
-            color: white; /* Texte en blanc pour un meilleur contraste */
+            background-color: dark blue;
             padding: 10px;
-            text-align: center;
             position: fixed; /* Reste fixe en haut de la page */
             top: 0;
             width: 100%; /* Prend toute la largeur de la page */
@@ -34,6 +25,6 @@ h2{
 .ma-tete {
             width: 200px;
             height: auto;
-            border: 1px solid #ccc; /* Optionnel : bordure pour mieux voir */
-        }
- 
+
+     }
+
