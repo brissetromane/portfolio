@@ -28,7 +28,12 @@ p{
      }
 
 
+.nom-prenom {
+    width: 200px; /* Largeur de l'image (ajuste selon tes besoins) */
+    height: auto; /* Garde les proportions */
+    justify-content: center
 
+     }
 
 
 
