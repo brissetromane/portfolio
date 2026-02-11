@@ -32,7 +32,8 @@ h2{
 
 
 .ma-tete {
-            width: 100px;
+            width: 200px;
             height: auto;
+            border: 1px solid #ccc; /* Optionnel : bordure pour mieux voir */
         }
  
