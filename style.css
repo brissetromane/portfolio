@@ -19,12 +19,14 @@ p{
 .affiche-typo {
     width: 100px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
+   justify-content: center
 
      }
 
 .vinyl {
     width: 100px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
+   justify-content: center
 
      }
 
@@ -36,7 +38,12 @@ p{
 
      }
 
+.logo {
+    width: 400px; /* Largeur de l'image (ajuste selon tes besoins) */
+    height: auto; /* Garde les proportions */
+    justify-content: center
 
+     }
 
 
 
