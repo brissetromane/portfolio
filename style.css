@@ -7,21 +7,6 @@ p{
   text-align : center;
 }
 
-        .bandeau {
-            background-color: dark blue;
-            padding: 5px;
-            position: fixed; /* Reste fixe en haut de la page */
-            top: 0;
-            width: 100%; /* Prend toute la largeur de la page */
-            z-index: 1000; /* Pour qu'il reste au-dessus des autres éléments */
-        }
-
-        /* Espacement pour éviter que le contenu soit caché sous le bandeau */
-        body {
-            margin-top: 100px; /* Ajuste cette valeur selon la hauteur de ton bandeau */
-        }
-
-
 .ma-tete {
     display: block; /* Permet d'appliquer les marges correctement */
     margin-left: auto; /* Décale l'image vers la droite */
