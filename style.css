@@ -14,10 +14,6 @@ h2{
   color: blue;
 }
 
-<head>
-    <title>Ma page avec bandeau fixe</title>
-    <style>
-        /* Style du bandeau */
         .bandeau {
             background-color: blue;
             color: white; /* Texte en blanc pour un meilleur contraste */
@@ -33,5 +29,11 @@ h2{
         body {
             margin-top: 50px; /* Ajuste cette valeur selon la hauteur de ton bandeau */
         }
-    </style>
-</head>
+
+
+.ma-tete {
+            width: 300px;
+            height: auto;
+            border: 1px solid #ccc; /* Optionnel : bordure pour mieux voir */
+        }
+ 
