@@ -13,6 +13,7 @@ p{
     margin-right: 70px; /* Espace de 20 pixels entre l'image et le bord droit */
     width: 300px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
+    margin-top: -50px;
 
      }
 .affiche-typo {
