@@ -1,11 +1,10 @@
 body{
   background-color : white;
 }
- #monCanvas {
-      border: 1px solid black; /* Pour voir les limites du canvas */
-      width: 100%; /* Taille CSS (optionnel) */
-      height: auto;
-    }
+#monCanvas {
+  width: 100 %;
+  height: auto;
+}
 p{
   color:blue;
   text-align : center;
