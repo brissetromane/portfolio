@@ -25,7 +25,7 @@ p{
      }
 
 .vinyl {
-    width: 200 px; /* Largeur de l'image (ajuste selon tes besoins) */
+    width: 50 px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
    justify-content : center
 
@@ -33,7 +33,7 @@ p{
 
 
 .nom-prenom {
-    width: 2000 px; /* Largeur de l'image (ajuste selon tes besoins) */
+    width: 1000 px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
     justify-content : center
 
