@@ -94,17 +94,6 @@ img {
 }
 
 
-.header-container {
-  text-align: center; /* Centre les éléments en ligne */
-  margin: 20px auto; /* Centre le conteneur et ajoute une marge en haut */
-}
-
-.ma-tete, .nom-prenom {
-  display: inline-block; /* Permet aux images de s'aligner en ligne */
-  vertical-align: middle; /* Aligne verticalement les images */
-  margin: 0 10px; /* Ajoute un espace horizontal entre les images */
-}
-
 /* Classe pour clémentine */
 .clementine {
   width: 5 %; /* Taille relative */
