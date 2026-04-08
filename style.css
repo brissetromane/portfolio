@@ -12,7 +12,7 @@ p{
     display: block; /* Permet d'appliquer les marges correctement */
     margin-left: auto; /* Décale l'image vers la droite */
     margin-right: 700 px; /* Espace de 20 pixels entre l'image et le bord droit */
-    width: 2000 px; /* Largeur de l'image (ajuste selon tes besoins) */
+    width: 800 px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
     margin-top: -50 px;
 
@@ -40,7 +40,7 @@ p{
      }
 
 .logo {
-    width: 150 px; /* Largeur de l'image (ajuste selon tes besoins) */
+    width: 90 px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
     justify-content : center
 
