@@ -6,8 +6,8 @@ body {
 }
 
 #monCanvas {
-  width: 90%; /* Taille relative à la largeur de l'écran */
-  max-width: 900px; /* Largeur maximale pour éviter que ce soit trop grand */
+  width: 90 %; /* Taille relative à la largeur de l'écran */
+  max-width: 900 px; /* Largeur maximale pour éviter que ce soit trop grand */
   height: auto; /* Conserve les proportions */
   display: block; /* Pour éviter les marges indésirables */
   margin: 0 auto; /* Centre le canvas horizontalement */
@@ -16,7 +16,7 @@ body {
 p {
   color: blue;
   text-align: center;
-  font-size: 16px; /* Taille de police lisible */
+  font-size: 16 px; /* Taille de police lisible */
 }
 
 /* Classe pour les images en général */
@@ -28,42 +28,61 @@ img {
 
 /* Classe pour l'image de ta tête */
 .ma-tete {
-  width: 60%; /* Taille relative */
-  max-width: 500px; /* Largeur maximale */
+  width: 60 %; /* Taille relative */
+  max-width: 500 px; /* Largeur maximale */
   height: auto;
-  margin-top: 20px; /* Espace en haut */
+  margin-top: 20 px; /* Espace en haut */
 }
 
-/* Classe pour l'affiche typo */
-.affiche-typo {
-  width: 40%; /* Taille relative */
-  max-width: 300px; /* Largeur maximale */
+/* Classe pour l'affiche typo 1 */
+.affiche-typo 1 {
+  width: 40 %; /* Taille relative */
+  max-width: 300 px; /* Largeur maximale */
   height: auto;
-  margin: 20px auto; /* Centre et espace autour */
+  margin: 20 px auto; /* Centre et espace autour */
 }
+
+
+/* Classe pour l'affiche typo 2*/
+.affiche-typo 2 {
+  width: 40 %; /* Taille relative */
+  max-width: 300 px; /* Largeur maximale */
+  height: auto;
+  margin: 20 px auto; /* Centre et espace autour */
+}
+
+
+/* Classe pour l'affiche typo 3*/
+.affiche-typo 3 {
+  width: 40 %; /* Taille relative */
+  max-width: 300 px; /* Largeur maximale */
+  height: auto;
+  margin: 20 px auto; /* Centre et espace autour */
+}
+
 
 /* Classe pour le vinyl */
 .vinyl {
-  width: 10%; /* Taille relative */
-  max-width: 100px; /* Largeur maximale */
+  width: 10 %; /* Taille relative */
+  max-width: 100 px; /* Largeur maximale */
   height: auto;
-  margin: 20px auto; /* Centre et espace autour */
+  margin: 20 px auto; /* Centre et espace autour */
 }
 
 /* Classe pour le nom-prenom */
 .nom-prenom {
-  width: 70%; /* Taille relative */
-  max-width: 700px; /* Largeur maximale */
+  width: 70 %; /* Taille relative */
+  max-width: 700 px; /* Largeur maximale */
   height: auto;
-  margin: 20px auto; /* Centre et espace autour */
+  margin: 20 px auto; /* Centre et espace autour */
 }
 
 /* Classe pour le logo */
 .logo {
-  width: 15%; /* Taille relative */
-  max-width: 150px; /* Largeur maximale */
+  width: 15 %; /* Taille relative */
+  max-width: 150 px; /* Largeur maximale */
   height: auto;
-  margin: 20px auto; /* Centre et espace autour */
+  margin: 20 px auto; /* Centre et espace autour */
 }
 
 
