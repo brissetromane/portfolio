@@ -1,5 +1,5 @@
 body{
-  createCanvas (1920, 1080)
+  createCanvas (960, 540)
   background-color : white;
 }
 
