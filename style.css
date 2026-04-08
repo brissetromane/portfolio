@@ -105,5 +105,12 @@ img {
   margin: 0 10px; /* Ajoute un espace horizontal entre les images */
 }
 
+/* Classe pour clémentine */
+.clementine {
+  width: 5 %; /* Taille relative */
+  max-width: 50 px; /* Largeur maximale */
+  height: auto;
+  margin: 10 px auto; /* Centre et espace autour */
+}
 
 
