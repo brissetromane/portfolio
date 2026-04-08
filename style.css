@@ -1,8 +1,11 @@
 body{
-  createCanvas (960, 540)
   background-color : white;
 }
-
+ #monCanvas {
+      border: 1px solid black; /* Pour voir les limites du canvas */
+      width: 100%; /* Taille CSS (optionnel) */
+      height: auto;
+    }
 p{
   color:blue;
   text-align : center;
