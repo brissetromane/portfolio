@@ -26,80 +26,15 @@ img {
   margin-right: auto; /* Centre les images */
 }
 
-/* Classe pour l'image de ta tête */
-.ma-tete {
-  width: 60 %; /* Taille relative */
-  max-width: 500 px; /* Largeur maximale */
-  height: auto;
-  margin-top: 20 px; /* Espace en haut */
+.images-row {
+  text-align: center; /* Centre les images */
+  margin: 20 px auto;
 }
 
-/* Classe pour l'affiche typo 1 */
-.affiche-typo 1 {
-  width: 40 %; /* Taille relative */
-  max-width: 300 px; /* Largeur maximale */
+.affiche-typo 1, .affiche-typo 2, .affiche-typo 3 {
+  display: inline-block;
+  width: 200 px;
   height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
+  margin: 0 10 px; /* Espace horizontal */
 }
-
-
-/* Classe pour l'affiche typo 2*/
-.affiche-typo 2 {
-  width: 40 %; /* Taille relative */
-  max-width: 300 px; /* Largeur maximale */
-  height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
-}
-
-
-/* Classe pour l'affiche typo 3*/
-.affiche-typo 3 {
-  width: 40 %; /* Taille relative */
-  max-width: 300 px; /* Largeur maximale */
-  height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
-}
-
-
-/* Classe pour le vinyl 1 */
-.vinyl 1 {
-  width: 5 %; /* Taille relative */
-  max-width: 50 px; /* Largeur maximale */
-  height: auto;
-  margin: 10 px auto; /* Centre et espace autour */
-}
-
-/* Classe pour le vinyl 2 */
-.vinyl 2 {
-  width: 5 %; /* Taille relative */
-  max-width: 50 px; /* Largeur maximale */
-  height: auto;
-  margin: 10 px auto; /* Centre et espace autour */
-}
-
-/* Classe pour le nom-prenom */
-.nom-prenom {
-  width: 70 %; /* Taille relative */
-  max-width: 700 px; /* Largeur maximale */
-  height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
-}
-
-/* Classe pour le logo */
-.logo {
-  width: 15 %; /* Taille relative */
-  max-width: 150 px; /* Largeur maximale */
-  height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
-}
-
-
-/* Classe pour clémentine */
-.clementine {
-  width: 5 %; /* Taille relative */
-  max-width: 50 px; /* Largeur maximale */
-  height: auto;
-  margin: 10 px auto; /* Centre et espace autour */
-}
-
 
