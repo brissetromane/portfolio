@@ -61,12 +61,20 @@ img {
 }
 
 
-/* Classe pour le vinyl */
-.vinyl {
-  width: 10 %; /* Taille relative */
-  max-width: 100 px; /* Largeur maximale */
+/* Classe pour le vinyl 1 */
+.vinyl 1 {
+  width: 5 %; /* Taille relative */
+  max-width: 50 px; /* Largeur maximale */
   height: auto;
-  margin: 20 px auto; /* Centre et espace autour */
+  margin: 10 px auto; /* Centre et espace autour */
+}
+
+/* Classe pour le vinyl 2 */
+.vinyl 2 {
+  width: 5 %; /* Taille relative */
+  max-width: 50 px; /* Largeur maximale */
+  height: auto;
+  margin: 10 px auto; /* Centre et espace autour */
 }
 
 /* Classe pour le nom-prenom */
