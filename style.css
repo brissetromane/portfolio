@@ -10,8 +10,8 @@ p{
 .ma-tete {
     display: block; /* Permet d'appliquer les marges correctement */
     margin-left: auto; /* Décale l'image vers la droite */
-    margin-right: 70px; /* Espace de 20 pixels entre l'image et le bord droit */
-    width: 300px; /* Largeur de l'image (ajuste selon tes besoins) */
+    margin-right: 700px; /* Espace de 20 pixels entre l'image et le bord droit */
+    width: 3000px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
     margin-top: -50px;
 
@@ -32,7 +32,7 @@ p{
 
 
 .nom-prenom {
-    width: 200px; /* Largeur de l'image (ajuste selon tes besoins) */
+    width: 2000px; /* Largeur de l'image (ajuste selon tes besoins) */
     height: auto; /* Garde les proportions */
     justify-content: center
 
