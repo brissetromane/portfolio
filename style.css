@@ -1,12 +1,12 @@
 body {
-  background-color: white;
+  background-color: black;
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif; /* Police lisible par défaut */
 }
 
 #monCanvas {
-  width: 90 %; /* Taille relative à la largeur de l'écran */
+  width: 800 px; 
   max-width: 900 px; /* Largeur maximale pour éviter que ce soit trop grand */
   height: auto; /* Conserve les proportions */
   display: block; /* Pour éviter les marges indésirables */
